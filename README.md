@@ -9,7 +9,7 @@ design problem in your code.
 
 ## Classification of Patterns
 * **Creational patterns** provide object creation mechanisms that increase flexibility and reuse of existing code.
-    - [ ] Factory Method
+    - [x] [Factory Method](src/main/java/org/example/factory)
     - [x] [Abstract Factory](src/main/java/org/example/abstractfactory)
     - [ ] Builder
     - [ ] Prototype
