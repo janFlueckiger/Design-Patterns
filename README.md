@@ -31,7 +31,7 @@ design problem in your code.
     - [ ] Iterator
     - [ ] Mediator
     - [ ] Memento
-    - [ ] [Observer](src/main/java/org/example/observer)
+    - [x] [Observer](src/main/java/org/example/observer)
     - [ ] State
     - [ ] Strategy
     - [ ] Template Method
